@@ -1,5 +1,5 @@
-Programação-e-Algoritmo
+# PROGRAMAÇÂO E ALGORITIMO
 
-Professores: Ronildo
+Prof: Ronildo Aparecido Ferreira
 
-Oque Aprendemos: Aprendemos a programar em C++ e Portugol
+cursos feitos:
