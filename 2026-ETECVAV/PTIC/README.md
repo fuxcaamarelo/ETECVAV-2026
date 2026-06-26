@@ -1,6 +1,6 @@
 # PTIC
 
-prof: José Roberto
+prof: José Roberto Madureira
 
 cursos feitos: 
-https://www.credly.com/badges/0fcbf5d5-170d-4977-810e-3730680ef76c/public_url
+https://www.credly.com/badges/dfddf42c-1d36-4088-a259-3e1be0a48ea1/public_url
